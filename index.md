@@ -12,7 +12,7 @@ title: Home
 
  
 
-Please reach out if you are interested in joining the lab.. More information on lab policies and my mentoring philosophy can be found on the [lab Github](https://github.com/dallasLab).
+Please reach out if you are interested in joining the lab.. More information on lab policies and my mentoring philosophy can be found on ....
 
 
 Feel free to [contact me](mailto:robertm2@email.sc.edu)
