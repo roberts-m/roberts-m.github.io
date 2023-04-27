@@ -8,7 +8,7 @@ title: Home
 
 # Roberts Lab
 
-# ![logo](resources/logo2.png)
+[comment]: # ![logo](resources/logo2.png)
 
  
 
