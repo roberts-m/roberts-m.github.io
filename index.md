@@ -10,12 +10,10 @@ title: Home
 
 [comment]: # ![logo](resources/logo2.png)
 
+This site is a currently a placeholder while I work on creating a proper website.  
  
 
-Please reach out if you are interested in joining the lab.. More information on lab policies and my mentoring philosophy can be found on ....
-
-
-Feel free to [contact me](mailto:robertm2@email.sc.edu)
+In the meantime, please [reach out](mailto:robertm2@email.sc.edu) if you are interested in joining the lab.
 
 
 
