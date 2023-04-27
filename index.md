@@ -17,3 +17,4 @@ In the meantime, please [reach out](mailto:robertm2@email.sc.edu) if you are int
 
 
 
+Note to self:  eventually include a lab wiki like this:  http://bridgeslab.sph.umich.edu/protocols/index.php/SOP_-_Ethidium_Bromide
