@@ -1,10 +1,7 @@
-taddallas.github.io
+roberts-m.github.io
 ===================
 
-
-I host my academic website on github. You've found it. It's built using Jekyll.  
-
-[Check it out](http://taddallas.github.io)
+This is temporary while I work on actually implementing and tweaking the website. 
 
 
 
@@ -14,13 +11,9 @@ I host my academic website on github. You've found it. It's built using Jekyll.
 
 
 
-Convert citations.bib file into yaml to put in the _data folder
 
-```{}
 
- pandoc citations.bib -s -f biblatex -t markdown > citations.yaml
 
-```
 
 
 
